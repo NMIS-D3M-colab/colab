@@ -1,5 +1,5 @@
 layout: page
 title: "RESuME"
-permalink: https://nmis-digital-factory.github.io/resume.md
+permalink: /testbeds/resume/
 
 ### RESuME
