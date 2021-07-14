@@ -8,4 +8,4 @@ Welcome to the National Manufacturing Institute Scotland (NMIS) Digital Factory 
 
 ### Support or Contact
 
-For further information and help, please visit our [main site](https://nmis.scot/) or reach out to use on [twitter](https://twitter.com/NMIS_group)
+For further information and help, please visit our [main site](https://nmis.scot/) or reach out on [twitter](https://twitter.com/NMIS_group).
