@@ -1,6 +1,6 @@
 ## NMIS Digital Factory
 
-Welcome to the National Manufacturing Institute Scotland (NMIS) Digital Factory public GitHub for technical documentation to our smart factory research projects.
+Welcome to the National Manufacturing Institute Scotland (NMIS) Digital Factory public GitHub for technical documentation related to our smart factory research projects.
 
 ### Markdown
 
