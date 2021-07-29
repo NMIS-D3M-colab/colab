@@ -6,7 +6,10 @@ Welcome to the National Manufacturing Institute Scotland (NMIS) Digital Factory 
 
 NMIS plans to produce a suite of connected manufacturing systems to enable a Resource Efficient Supply and Make Environment ([RESuME](https://nmis-digital-factory.github.io/documentation/resume.html)).
 
+
 ### Smart Factory Innovation Hub
+
+[my hyperlink](https://nmis-digital-factory.github.io/documentation/resume.html)
 
 ### Temp
 I made a change
