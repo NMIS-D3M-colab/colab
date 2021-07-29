@@ -9,8 +9,6 @@ NMIS plans to produce a suite of connected manufacturing systems to enable a Res
 
 ### Smart Factory Innovation Hub
 
-[my hyperlink](https://nmis-digital-factory.github.io/documentation/resume.html)
-
 ### Temp
 I made a change
 
