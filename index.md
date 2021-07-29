@@ -9,8 +9,8 @@ NMIS plans to produce a suite of connected manufacturing systems to enable a Res
 
 ### Smart Factory Innovation Hub
 
-### Temp
-I made a change
+### Additional NMIS Specialist Centres
+Details of our Specialist Centres can be found [here](documentation/nmis-facilities.md).
 
 ### Support or Contact
 
