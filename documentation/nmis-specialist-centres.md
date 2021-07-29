@@ -1,4 +1,4 @@
-## NMIS Facilities
+## NMIS Specialist Centres
 
 ### Advanced Forming Research Centre
 
