@@ -5,7 +5,7 @@ NMIS plans to produce a suite of connected manufacturing systems to enable a Res
 
 ### Industrial IoT
 
-### NetwOrks
+### Networks
 
 ### Storage
 
