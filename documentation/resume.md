@@ -5,6 +5,8 @@ NMIS plans to produce a suite of connected manufacturing systems to enable a Res
 
 ### Industrial IoT
 
+The IIoT details can be found [here](iiot.md).
+
 ### Networks
 
 ### Storage
