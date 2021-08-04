@@ -7,12 +7,23 @@ Initially released in 2013, Docker is an open-source Platform as a Service (PaaS
 By comparing to VM, the Docker platform abstracts the resource on the operation system level while VM does it on the hardware level. With this archieteccture design, the Docker will efficient use the computing resource as lightweight component but the VM need a fully load of guest operation system on the hypervisor.
 
 ### Docker Prerequistes
-ere are some guides from Docker.
+
+Before attempting to install Docker from binaries, be sure your host machine meets the prerequisites:
+
+- A 64-bit installation
+- Version 3.10 or higher of the Linux kernel. The latest version of the kernel available for your platform is recommended.
+- iptables version 1.4 or higher
+- git version 1.7 or higher
+- A ps executable, usually provided by procps or a similar package.
+- XZ Utils 4.9 or higher
+- properly mounted cgroupfs hierarchy; a single, all-encompassing cgroup mount point is not sufficient.
+
+Reference to [docker installation document](https://docs.docker.com/engine/install/binaries/)
 
 
 ### Getting Started with Docker
 
-docker cheat sheet from https://www.docker.com/sites/default/files/d8/2019-09/docker-cheat-sheet.pdf
+You can refer to the [Docker Cheat Sheet](https://www.docker.com/sites/default/files/d8/2019-09/docker-cheat-sheet.pdf) for a quick reference.
 
 #### Build command
 
