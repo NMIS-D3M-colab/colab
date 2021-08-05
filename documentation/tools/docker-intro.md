@@ -76,9 +76,12 @@ docker container ls
 ```
 
 Delete all running and stopped containers
-```docker container rm -f $(docker ps -aq)
+```sh
+docker container rm -f $(docker ps -aq)
+```
 
 Print the last 100 lines of a container's logs
+
 ```sh
 docker container logs --tail 100 web
 ```
@@ -108,13 +111,13 @@ docker push myrepo/myimage:2.0
 docker run -v /home/jhuang:/usr/share/nginx/html:ro -p 8080:80 -d nginx
 ```
 
--v /full/path/to/html/directory:/usr/share/nginx/html:ro maps the directory holding our web page to the required location in the image. The ro field instructs Docker to mount it in read-only mode. It’s best to pass Docker the full paths when specifying host directories.
+- -v /full/path/to/html/directory:/usr/share/nginx/html:ro maps the directory holding our web page to the required location in the image. The ro field instructs Docker to mount it in read-only mode. It’s best to pass Docker the full paths when specifying host directories.
 
--p 8080:80 maps network service port 80 in the container to 8080 on our host system.
+- -p 8080:80 maps network service port 80 in the container to 8080 on our host system.
 
--d detaches the container from our command line session. Unlike our previous two examples, we don’t want to interact with this container.
+- -d detaches the container from our command line session. Unlike our previous two examples, we don’t want to interact with this container.
 
-nginx is the name of the image.
+- nginx is the name of the image.
 
 
 #### Customise an exist image
