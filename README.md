@@ -1,2 +1,2 @@
-# NMIS Digital Factory
-Public GitHub page for Digital Factory research and development into smart factory systems for manufacturing.
+# NMIS Data-driven Manufacturing
+Public GitHub page for Data-driven Manufacturing at the National Manufacturing Institute Scotland.
