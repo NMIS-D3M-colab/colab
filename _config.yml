@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
+theme: minimal-mistakes-jekyll
 title: NMIS Digital Factory
 logo: /assets/img/nmis-eye-25.jpg
