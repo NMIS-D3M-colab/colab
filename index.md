@@ -1,16 +1,10 @@
-## NMIS Digital Factory
+## NMIS Data-driven Manufacturing
 
-Welcome to the National Manufacturing Institute Scotland (NMIS) Digital Factory public GitHub for technical documentation related to our smart factory research projects.
+Welcome to the National Manufacturing Institute Scotland (NMIS) public GitHub for Data-driven Manufacturing. This site will host technical documentation related to our data science research projects and training material.
 
 ### Resource Efficient Supply and Manufacture Environment
 
 NMIS plans to produce a suite of connected manufacturing systems to enable a Resource Efficient Supply and Make Environment ([RESuME](https://nmis-digital-factory.github.io/documentation/resume.html)).
-
-
-### Smart Factory Innovation Hub
-
-### Additional NMIS Specialist Centres
-Details of our Specialist Centres can be found [here](documentation/nmis-specialist-centres.md).
 
 ### Support or Contact
 
