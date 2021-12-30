@@ -4,8 +4,8 @@ Welcome to the National Manufacturing Institute Scotland (NMIS) public GitHub fo
 
 ### Resource Efficient Supply and Manufacture Environment
 
-NMIS plans to produce a suite of connected manufacturing systems to enable a Resource Efficient Supply and Make Environment ([RESuME](https://nmis-data-driven.github.io/documentation/resume.html)).
+NMIS is currently implementing an unified connected smart factory to enable real-time data analytics and decision support ([RESuME](https://nmis-data-driven.github.io/documentation/resume.html)).
 
 ### Support or Contact
 
-For further information and help, please visit our [main site](https://nmis.scot/) or reach out on [twitter](https://twitter.com/NMIS_group).
+For further information and help, please visit our [main site](https://nmis.scot/) or follow us on [twitter](https://twitter.com/NMIS_group).
