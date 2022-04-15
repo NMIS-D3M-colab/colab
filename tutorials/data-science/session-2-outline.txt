@@ -1,0 +1,7 @@
+Session 2 Outline -  Visualising Data with Python
+
+
+Importing data
+Panda
+Formatting data correctly
+Introduce matplotlib
