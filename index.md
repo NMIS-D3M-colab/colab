@@ -6,5 +6,8 @@ This section will provide a basic overview of _colab, including our public repos
 ### Course -- Data Science for Manufacturing
 [Data science for manufacturing course](https://dsmanufacturing.github.io/) by the University of Edinburgh and the University of Strathclyde introduces different data science concepts, including data engineering, interactive programming notebooks, analytical methods (for tabular and image data), stats and machine learning.
 
-### Tools -- MODBUS Data Parsing into Python
-This repo will demonstrate combining open source industrial IoT tool [Modpoll](https://www.modbusdriver.com/modpoll.html) to pull data from a manufacturing process directly into Python for data exploration and inferencing.
+### Tutorials
+
+- [Python](https://github.com/nmis-group/colab/tree/main/tutorials/python)
+- [Data science](https://github.com/nmis-group/colab/tree/main/tutorials/data-science)
+- [Unity](https://github.com/nmis-group/colab/tree/main/tutorials/unity)
