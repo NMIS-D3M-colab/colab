@@ -140,7 +140,7 @@ Prepare an index.html file and save in the current work directory.
 <body>
 <h1>Welcome to NMIS Digital Team!</h1>
 <p>The NMIS Digital Factroy website refer to
-<a href="https://nmis-digital-factory.github.io/">NMIS Digital Factory</a>.<br/>
+<a href="https://nmis-group.github.io/colab">NMIS _colab</a>.<br/>
 
 <p>If you see this page, the nginx web server is successfully installed and
 working. Further configuration is required.</p>
