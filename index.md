@@ -11,3 +11,6 @@ This section will provide a basic overview of _colab, including our public repos
 - [Python](https://github.com/nmis-group/colab/tree/main/tutorials/python)
 - [Data science](https://github.com/nmis-group/colab/tree/main/tutorials/data-science)
 - [Unity](https://github.com/nmis-group/colab/tree/main/tutorials/unity)
+
+### About
+- [Contact Us](https://github.com/nmis-group/colab/about/contact-us.html)
