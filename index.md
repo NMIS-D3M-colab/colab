@@ -13,4 +13,4 @@ This section will provide a basic overview of _colab, including our public repos
 - [Unity](https://github.com/nmis-group/colab/tree/main/tutorials/unity)
 
 ### About
-- [Contact Us](colab/about/contact-us.html)
+- [Contact Us](https://nmis-group.github.io/colab/about/contact-us.html)
