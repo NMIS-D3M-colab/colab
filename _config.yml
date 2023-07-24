@@ -21,16 +21,16 @@
 theme: jekyll-theme-minimal
 title: _colab
 logo: assets/img/ddm-logo.png
+repository: nmis-group/colab
 
 # title: Your awesome title
 # email: jianfeng.huang@strath.ac.uk
 # description: >- # this means to ignore newlines until "baseurl:"
 #   Welcome to _colab - a community of manufacturers, data scientists, engineers and researchers developing tools to enhance the capability of Scotland manufacturing sector through data-driven approaches.
-  
-# baseurl: "" # the subpath of your site, e.g. /blog
-# url: "https://nmis-group.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: nmis-group
-# github_username:  nmis-group
+baseurl: "/colab" # the subpath of your site, e.g. /blog
+url: "https://nmis-group.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: nmis-group
+github_username:  nmis-group
 
 # Build settings
 # theme: minima
