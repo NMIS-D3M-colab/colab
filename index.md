@@ -1,5 +1,5 @@
 ## D3M_colab
-Welcome to _colab!
+Welcome to D3M_colab!
 
 This section will provide a basic overview of D3M_colab, including our public repos, projects and useful resources for the manufacturing community to leverage the benefits of data science and Industry 4.0.
 
