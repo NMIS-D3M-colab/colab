@@ -1,5 +1,5 @@
 ## D3M_colab
-Welcome to D3M_colab!
+Welcome to the D3M_colab page!
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
