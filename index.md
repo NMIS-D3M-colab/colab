@@ -1,8 +1,12 @@
 ## D3M_colab
 Welcome to D3M_colab!
-<br/>
-<img src="https://nmis-group.github.io/colab/assets/img/nmis-logo.png, style="width:200px;height:200px; ,alt="Logo1""/>       
-<br/>
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://www.nmis.scot">
+    <img src="assets/img/nmis-logo.png" alt="Logo" width="280" height="280">
+  </a>
+</div>
 
 This section will provide a basic overview of D3M_colab, including our public repos, projects and useful resources for the manufacturing community to leverage the benefits of data science and Industry 4.0.
 
