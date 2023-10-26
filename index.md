@@ -5,7 +5,7 @@ Welcome to the D3M_colab page!
 <br />
 <div align="center">
   <a href="https://www.nmis.scot">
-    <img src="assets/img/nmis-logo.png" alt="Logo" width="280" height="280">
+    <img src="assets/img/data-analytics.png" alt="Logo" height="200">
   </a>
 </div>
 
